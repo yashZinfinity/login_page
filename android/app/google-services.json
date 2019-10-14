@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "540139609969",
+    "firebase_url": "https://zinfinity.firebaseio.com",
+    "project_id": "zinfinity",
+    "storage_bucket": "zinfinity.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540139609969:android:5ee8dbc5fc885b086820d0",
+        "android_client_info": {
+          "package_name": "com.example.login_page"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "540139609969-9l9qc8kgjanctit0m21r5elpvj285l4n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtyl3xQa8kgpwHyrN2gNLlE9XD9IOL4JI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "540139609969-9l9qc8kgjanctit0m21r5elpvj285l4n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
